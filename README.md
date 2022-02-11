@@ -10,8 +10,13 @@ https://pentesterlab.com/my/progress
 
 It Security:
 Malware, Penetration testing, Tools.
+
 Programming:
 Java, C++, Python, Javascript.
+
+To easy:HTML is not a programming language, CSS & Php also.
+
+Fixing Stuff like broken Hadware.
 
 - 🌱 I’m currently learning ...
 OWAS Top 10
